@@ -1,5 +1,3 @@
-# As requested by many people over mail or linkedin.I am making stepwise Implementation playist on youtube. 
-
 Here is the link of stepwise implementation Youtube- https://bit.ly/3c0n0ss
 
 # End-to-End Covid-19 chatbot using DialogFlow,Python/Flask,MongoDb Atlas and deployed on Pivotal Cloud foundary and Telegram
