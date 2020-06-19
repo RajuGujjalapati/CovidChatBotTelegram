@@ -1,5 +1,3 @@
-# CovidChatBotTelegram
-Developed a Project on 'Covid Chat Bot' using flask web framework and trained the data using 'Google Dialogue Flow'  type @RajuCovidBot in telegram..
 # End-to-End Covid-19 chatbot using DialogFlow,Python/Flask,MongoDb Atlas and deployed on Pivotal Cloud foundary and Telegram
 This chatbot developed using Dialoglow,python,flask,MongoDB and deployed on Telegram. search @RajuCovidBot on telegram app
 BestCovid-19 Bot can give answers of all of your queries related to covid-19 also it can -
